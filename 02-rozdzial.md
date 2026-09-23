@@ -219,12 +219,10 @@ Przepis reguluje mechanizm kontrasygnaty, kluczowy dla zrozumienia charakteru po
 > 2. Postawienie Prezydenta Rzeczypospolitej w stan oskarżenia może nastąpić uchwałą Zgromadzenia Narodowego, podjętą większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego na wniosek co najmniej 140 członków Zgromadzenia Narodowego.
 >
 > 3. Z dniem podjęcia uchwały o postawieniu Prezydenta Rzeczypospolitej w stan oskarżenia przed Trybunałem Stanu sprawowanie urzędu przez Prezydenta Rzeczypospolitej ulega zawieszeniu. Przepis art. 131 stosuje się odpowiednio.
->
-> RADA MINISTRÓW I ADMINISTRACJA RZĄDOWA
 
 Przepis reguluje odpowiedzialność konstytucyjną Prezydenta Rzeczypospolitej przed Trybunałem Stanu. Ustęp 1 określa przesłanki tej odpowiedzialności szerzej niż w przypadku innych podmiotów objętych jurysdykcją Trybunału Stanu (art. 198) – obejmuje ona nie tylko naruszenie Konstytucji lub ustawy w związku ze sprawowanym urzędem, lecz także popełnienie przestępstwa w ogóle, co oznacza, że Prezydent w czasie kadencji może odpowiadać przed Trybunałem Stanu również za przestępstwa pospolite, niezwiązane bezpośrednio z wykonywaniem urzędu – rozwiązanie to stanowi swoisty immunitet formalny, przenoszący właściwość z sądów powszechnych na Trybunał Stanu, a nie immunitet materialny wyłączający odpowiedzialność karną w ogóle. Ustęp 2 określa kwalifikowaną procedurę wszczęcia postępowania: postawienie Prezydenta w stan oskarżenia następuje uchwałą Zgromadzenia Narodowego podjętą większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia, na wniosek zgłoszony przez co najmniej 140 członków Zgromadzenia Narodowego – podwyższone progi liczbowe mają zapobiegać wykorzystywaniu tej instytucji do bieżącej walki politycznej i chronić stabilność urzędu głowy państwa. Ustęp 3 wiąże z samym podjęciem uchwały o postawieniu w stan oskarżenia automatyczny skutek w postaci zawieszenia sprawowania urzędu przez Prezydenta, z jednoczesnym odpowiednim zastosowaniem mechanizmu zastępstwa z art. 131 – rozwiązanie to zapewnia ciągłość funkcjonowania urzędu głowy państwa na czas trwania postępowania przed Trybunałem Stanu, niezależnie od jego ostatecznego wyniku.
 
-#### Rozdział VI
+#### Rozdział VI — RADA MINISTRÓW I ADMINISTRACJA RZĄDOWA
 
 ### Art. 146
 
@@ -538,6 +536,8 @@ Przepis otwiera rozdział VIII Konstytucji poświęcony sądom i trybunałom, fo
 
 Przepis stanowi, że sądy i trybunały wydają wyroki w imieniu Rzeczypospolitej Polskiej. Formuła ta wyraża publicznoprawny, majestatyczny charakter władzy sądowniczej – orzeczenie sądowe nie jest aktem prywatnym sędziego, lecz aktem państwa jako takiego, co legitymizuje jego powszechną moc wiążącą i wykonalność. Przepis ten ma znaczenie przede wszystkim symboliczno-ustrojowe, podkreślające, że wymiar sprawiedliwości stanowi emanację suwerennej władzy Rzeczypospolitej, niezależnie od tego, który konkretnie sąd czy trybunał wydaje rozstrzygnięcie.
 
+#### Sądy
+
 ### Art. 175
 
 **Brzmienie przepisu:**
@@ -672,6 +672,8 @@ Przepis określa funkcję ustrojową Krajowej Rady Sądownictwa. Ustęp 1 powier
 
 Przepis reguluje skład, organizację wewnętrzną i kadencję Krajowej Rady Sądownictwa. Ustęp 1 określa trójczłonowy skład tego organu: grupę członków zasiadających z urzędu lub z nominacji prezydenckiej (Pierwszy Prezes Sądu Najwyższego, Minister Sprawiedliwości, Prezes Naczelnego Sądu Administracyjnego oraz osoba powołana przez Prezydenta Rzeczypospolitej – pkt 1), piętnastu członków wybieranych spośród sędziów Sądu Najwyższego, sądów powszechnych, sądów administracyjnych i sądów wojskowych (pkt 2), a także sześciu członków o legitymacji parlamentarnej – czterech wybieranych przez Sejm spośród posłów oraz dwóch wybieranych przez Senat spośród senatorów (pkt 3). Taka struktura ma zapewnić równowagę między czynnikiem środowiskowo-sędziowskim (stanowiącym większość składu) a czynnikiem politycznym i wykonawczym, przy zachowaniu przewagi przedstawicielstwa sędziowskiego jako gwarancji niezależności organu stojącego na straży niezawisłości sądownictwa. Ustęp 2 przewiduje wybór przewodniczącego i dwóch wiceprzewodniczących spośród członków Rady. Ustęp 3 określa kadencję wybieranych członków Krajowej Rady Sądownictwa na cztery lata. Ustęp 4 odsyła do ustawy w zakresie szczegółowego ustroju, zakresu działania i trybu pracy Krajowej Rady Sądownictwa oraz sposobu wyboru jej członków – w tym w szczególności trybu wyboru piętnastu sędziów, o których mowa w ust. 1 pkt 2, co pozostawia ustawodawcy zwykłemu istotną swobodę regulacyjną w tym zakresie, w granicach wyznaczonych przez konstytucyjną funkcję Rady z art. 186.
 
+#### Trybunał Konstytucyjny
+
 ### Art. 188
 
 **Brzmienie przepisu:**
@@ -772,6 +774,8 @@ Przepis ustanawia immunitet formalny sędziów Trybunału Konstytucyjnego, skons
 
 Przepis zawiera generalne odesłanie do ustawy w zakresie organizacji Trybunału Konstytucyjnego oraz trybu postępowania przed Trybunałem. Podobnie jak w przypadku innych organów konstytucyjnych, ustawa zasadnicza reguluje jedynie podstawowe elementy ustrojowe (skład, kadencję, kompetencje, tryb powoływania organów kierowniczych – art. 194–195), pozostawiając szczegółową regulację proceduralną i organizacyjną ustawodawcy zwykłemu, obecnie w postaci ustawy o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym.
 
+#### Trybunał Stanu
+
 ### Art. 198
 
 **Brzmienie przepisu:**
@@ -809,12 +813,12 @@ Przepis ustanawia immunitet formalny członków Trybunału Stanu, skonstruowany 
 **Brzmienie przepisu:**
 
 > Art. 201. Organizację Trybunału Stanu oraz tryb postępowania przed Trybunałem określa ustawa.
->
-> ORGANY KONTROLI PAŃSTWOWEJ I OCHRONY PRAWA
 
 Przepis zawiera generalne odesłanie do ustawy w zakresie organizacji Trybunału Stanu oraz trybu postępowania przed tym organem, analogicznie do odesłania dotyczącego Trybunału Konstytucyjnego z art. 197. Ustawa o Trybunale Stanu reguluje szczegółowo m.in. tryb wnoszenia i rozpoznawania aktów oskarżenia, prawa oskarżonego oraz procedurę wydawania i zaskarżania orzeczeń, konkretyzując konstytucyjne ramy odpowiedzialności konstytucyjnej ustanowione w art. 145, 156 i 198.
 
-#### Rozdział IX
+#### Rozdział IX — ORGANY KONTROLI PAŃSTWOWEJ I OCHRONY PRAWA
+
+#### Najwyższa Izba Kontroli
 
 ### Art. 202
 
@@ -880,6 +884,8 @@ Przepis ustanawia immunitet formalny Prezesa Najwyższej Izby Kontroli, skonstru
 
 Przepis zawiera generalne odesłanie do ustawy w zakresie organizacji oraz trybu działania Najwyższej Izby Kontroli, konkretyzowane obecnie przez ustawę o Najwyższej Izbie Kontroli, która reguluje m.in. wewnętrzną strukturę Izby, tryb przeprowadzania kontroli oraz status prawny jej pracowników.
 
+#### Rzecznik Praw Obywatelskich
+
 ### Art. 208
 
 **Brzmienie przepisu:**
@@ -925,6 +931,8 @@ Przepis ustanawia immunitet formalny Rzecznika Praw Obywatelskich, skonstruowany
 > Art. 212. Rzecznik Praw Obywatelskich corocznie informuje Sejm i Senat o swojej działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela.
 
 Przepis nakłada na Rzecznika Praw Obywatelskich obowiązek corocznego informowania Sejmu i Senatu o swojej działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela w Rzeczypospolitej Polskiej. Obowiązek ten pełni istotną funkcję informacyjno-kontrolną wobec władzy ustawodawczej, umożliwiając parlamentowi ocenę zarówno skuteczności działania samego Rzecznika, jak i ogólnego stanu przestrzegania praw jednostki przez organy władzy publicznej, co może stanowić impuls do inicjatyw ustawodawczych naprawiających zidentyfikowane nieprawidłowości systemowe.
+
+#### Krajowa Rada Radiofonii i Telewizji
 
 ### Art. 213
 

@@ -267,12 +267,12 @@ Artykuł 28 reguluje symbole państwowe Rzeczypospolitej Polskiej. Ustęp 1 okre
 **Brzmienie przepisu:**
 
 > Art. 29. Stolicą Rzeczypospolitej Polskiej jest Warszawa.
->
-> WOLNOŚCI, PRAWA I OBOWIĄZKI CZŁOWIEKA I OBYWATELA
 
 Artykuł 29 wskazuje Warszawę jako stolicę Rzeczypospolitej Polskiej. Przepis ten ma charakter normy ustrojowej o znaczeniu symbolicznym i organizacyjnym zarazem — Warszawa jako stolica jest siedzibą najważniejszych konstytucyjnych organów władzy publicznej (Sejmu, Senatu, Prezydenta Rzeczypospolitej, Rady Ministrów, Sądu Najwyższego, Trybunału Konstytucyjnego), co ma istotne znaczenie praktyczne dla lokalizacji ich siedzib oraz organizacji funkcjonowania administracji centralnej. Zamieszczenie tego przepisu w Konstytucji, a nie w ustawie zwykłej, podkreśla jego rangę ustrojową i uniemożliwia zmianę stolicy bez zmiany Konstytucji, w trybie przewidzianym w rozdziale XII. Artykuł 29 zamyka rozdział I Konstytucji, poświęcony podstawowym zasadom ustrojowym Rzeczypospolitej, stanowiąc razem z art. 1–28 spójny katalog naczelnych zasad determinujących charakter państwa polskiego jako demokratycznego, jednolitego państwa prawnego, opartego na społecznej gospodarce rynkowej, podziale władz i poszanowaniu wolności obywatelskich.
 
-#### Rozdział II
+#### Rozdział II — WOLNOŚCI, PRAWA I OBOWIĄZKI CZŁOWIEKA I OBYWATELA
+
+#### Zasady ogólne
 
 ### Art. 30
 
@@ -351,6 +351,8 @@ Artykuł 36 gwarantuje obywatelowi polskiemu przebywającemu za granicą prawo d
 > 2. Wyjątki od tej zasady, odnoszące się do cudzoziemców, określa ustawa.
 
 Artykuł 37 określa krąg podmiotów uprawnionych do korzystania z konstytucyjnych wolności i praw. Ustęp 1 wprowadza zasadę terytorialności — z wolności i praw zapewnionych w Konstytucji korzysta każdy, kto znajduje się pod władzą Rzeczypospolitej Polskiej, niezależnie od posiadanego obywatelstwa, co obejmuje zarówno obywateli polskich, jak i cudzoziemców oraz bezpaństwowców przebywających na terytorium Polski lub podlegających jej jurysdykcji. Zasada ta jest wyrazem uniwersalnego charakteru praw człowieka, w odróżnieniu od praw obywatelskich zastrzeżonych wyłącznie dla obywateli polskich (np. czynne i bierne prawo wyborcze). Ustęp 2 dopuszcza jednak wprowadzenie w drodze ustawy wyjątków od tej zasady odnoszących się do cudzoziemców, co pozwala ustawodawcy różnicować zakres praw przysługujących cudzoziemcom w porównaniu do obywateli polskich (np. w zakresie dostępu do niektórych zawodów, nabywania nieruchomości czy prawa wyborczego), przy zachowaniu jednak wymogów wynikających z ogólnej klauzuli limitacyjnej z art. 31 ust. 3 oraz zobowiązań międzynarodowych Rzeczypospolitej.
+
+#### Wolności i prawa osobiste
 
 ### Art. 38
 
@@ -562,6 +564,8 @@ Artykuł 55 reguluje zasady dopuszczalności ekstradycji obywatela polskiego, st
 
 Artykuł 56 reguluje prawo cudzoziemców do azylu i statusu uchodźcy w Rzeczypospolitej Polskiej. Ustęp 1 przyznaje cudzoziemcom prawo korzystania z azylu na zasadach określonych w ustawie, przy czym udzielenie azylu ma w polskim systemie prawnym charakter uznaniowy (fakultatywny) i pozostaje w gestii właściwych organów władzy publicznej. Ustęp 2 dotyczy odrębnej instytucji — statusu uchodźcy, który może być przyznany cudzoziemcowi poszukującemu w Polsce ochrony przed prześladowaniem, zgodnie z wiążącymi Rzeczpospolitą umowami międzynarodowymi, w tym przede wszystkim Konwencją genewską dotyczącą statusu uchodźców z 1951 r. oraz przepisami prawa Unii Europejskiej dotyczącymi wspólnego europejskiego systemu azylowego. Artykuł 56 stanowi konstytucyjną podstawę ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, określającej szczegółowe przesłanki i procedurę przyznawania statusu uchodźcy, ochrony uzupełniającej oraz azylu. Warto zauważyć, że art. 79 ust. 2 wyłącza możliwość wniesienia skargi konstytucyjnej w zakresie praw określonych w art. 56, co odróżnia status prawny tych uprawnień od pozostałych praw i wolności rozdziału II.
 
+#### Wolności i prawa polityczne
+
 ### Art. 57
 
 **Brzmienie przepisu:**
@@ -635,6 +639,8 @@ Artykuł 62 reguluje czynne prawo wyborcze i prawo udziału w referendum. Ustęp
 > Art. 63. Każdy ma prawo składać petycje, wnioski i skargi w interesie publicznym, własnym lub innej osoby za jej zgodą do organów władzy publicznej oraz do organizacji i instytucji społecznych w związku z wykonywanymi przez nie zadaniami zleconymi z zakresu administracji publicznej. Tryb rozpatrywania petycji, wniosków i skarg określa ustawa.
 
 Artykuł 63 gwarantuje każdemu prawo składania petycji, wniosków i skarg do organów władzy publicznej oraz do organizacji i instytucji społecznych wykonujących zlecone zadania z zakresu administracji publicznej. Prawo to może być realizowane w interesie publicznym, własnym lub innej osoby za jej zgodą, co odróżnia je od typowych środków zaskarżenia w postępowaniu sądowym czy administracyjnym, gdyż nie wymaga wykazania własnego interesu prawnego. Przepis ten przysługuje „każdemu”, a nie tylko obywatelom polskim, co podkreśla jego uniwersalny charakter jako instrumentu partycypacji obywatelskiej i kontroli społecznej nad funkcjonowaniem administracji publicznej. Zdanie drugie odsyła do ustawy w zakresie trybu rozpatrywania petycji, wniosków i skarg, co znajduje rozwinięcie w przepisach Kodeksu postępowania administracyjnego (dział VIII, dotyczący skarg i wniosków) oraz w ustawie o petycjach, regulującej odrębnie tę formę uczestnictwa obywateli w sprawach publicznych, w tym petycje kierowane do organów władzy ustawodawczej.
+
+#### Wolności i prawa ekonomiczne, socjalne i kulturalne
 
 ### Art. 64
 
@@ -788,6 +794,8 @@ Artykuł 75 reguluje politykę mieszkaniową państwa. Ustęp 1 zobowiązuje wł
 
 Artykuł 76 nakłada na władze publiczne obowiązek ochrony konsumentów, użytkowników i najemców przed działaniami zagrażającymi ich zdrowiu, prywatności i bezpieczeństwu oraz przed nieuczciwymi praktykami rynkowymi. Przepis ten stanowi konstytucyjną podstawę prawa ochrony konsumentów jako odrębnej gałęzi regulacji, uwzględniającej strukturalną nierównowagę między profesjonalnymi uczestnikami obrotu (przedsiębiorcami) a konsumentami czy najemcami jako stroną słabszą ekonomicznie i informacyjnie. Zakres tej ochrony, zgodnie ze zdaniem drugim, określa ustawa — konkretyzację stanowią m.in. przepisy o ochronie konkurencji i konsumentów, przepisy Kodeksu cywilnego dotyczące niedozwolonych postanowień umownych, a także ustawa o ochronie praw lokatorów w zakresie ochrony najemców. Artykuł 76 pozostaje w ścisłym związku z art. 75 ust. 2 (ochrona praw lokatorów) oraz z art. 20 i art. 22, regulującymi wolność działalności gospodarczej, której granice wyznacza m.in. konieczność ochrony słabszej strony stosunków rynkowych.
 
+#### Środki ochrony wolności i praw
+
 ### Art. 77
 
 **Brzmienie przepisu:**
@@ -831,6 +839,8 @@ Artykuł 80 przyznaje każdemu prawo wystąpienia do Rzecznika Praw Obywatelskic
 > Art. 81. Praw określonych w art. 65 ust. 4 i 5, art. 66, art. 69, art. 71 i art. 74– 76 można dochodzić w granicach określonych w ustawie.
 
 Artykuł 81 ogranicza sposób dochodzenia niektórych praw socjalnych i gospodarczych wymienionych w rozdziale II. Przepis stanowi, że praw określonych w art. 65 ust. 4 i 5 (minimalne wynagrodzenie oraz polityka pełnego zatrudnienia), art. 66 (prawo do bezpiecznych warunków pracy i wypoczynku), art. 69 (pomoc dla osób niepełnosprawnych), art. 71 (uwzględnianie dobra rodziny w polityce społecznej i pomoc dla matek) oraz art. 74–76 (bezpieczeństwo ekologiczne, polityka mieszkaniowa i ochrona konsumentów) można dochodzić wyłącznie w granicach określonych w ustawie. Artykuł 81 ma zatem fundamentalne znaczenie systemowe — wyodrębnia kategorię praw o ograniczonej bezpośredniej stosowalności, w odróżnieniu od zasady bezpośredniego stosowania Konstytucji z art. 8 ust. 2, wskazując, że wymienione prawa mają charakter programowy i ich konkretna treść, zakres oraz możliwość dochodzenia przed sądem zależą od stopnia ich konkretyzacji w ustawodawstwie zwykłym. Przepis ten stanowi istotną wskazówkę interpretacyjną dla sądów i Trybunału Konstytucyjnego przy ocenie, czy dana norma socjalna kreuje bezpośrednio egzekwowalne roszczenie, czy jedynie wyznacza kierunek działania ustawodawcy.
+
+#### Obowiązki
 
 ### Art. 82
 
@@ -982,6 +992,8 @@ Artykuł 94 reguluje akty prawa miejscowego jako źródło prawa powszechnie obo
 
 Artykuł 95 otwiera rozdział IV Konstytucji, poświęcony Sejmowi i Senatowi, konkretyzując zasadę podziału władz z art. 10 w odniesieniu do władzy ustawodawczej. Ustęp 1 stanowi, że władzę ustawodawczą w Rzeczypospolitej Polskiej sprawują Sejm i Senat, co potwierdza dwuizbowy charakter polskiego parlamentu, przy czym — jak wynika z dalszych przepisów rozdziału IV — pozycja ustrojowa obu izb nie jest symetryczna, gdyż to Sejm pełni funkcję głównego organu ustawodawczego, a Senat sprawuje funkcję rewizyjną wobec ustaw uchwalonych przez Sejm (art. 121). Ustęp 2 przyznaje Sejmowi wyłączną kompetencję kontrolną wobec Rady Ministrów, sprawowaną w zakresie określonym przepisami Konstytucji i ustaw — funkcja kontrolna Sejmu (niesprawowana przez Senat) realizowana jest m.in. poprzez instytucję wotum zaufania i wotum nieufności, interpelacje i zapytania poselskie (art. 115) oraz działalność komisji śledczych (art. 111). Artykuł 95 stanowi wprowadzenie do szczegółowej regulacji ustroju, kompetencji i trybu funkcjonowania obu izb parlamentu.
 
+#### Wybory i kadencja
+
 ### Art. 96
 
 **Brzmienie przepisu:**
@@ -1053,6 +1065,8 @@ Artykuł 100 reguluje zasady zgłaszania kandydatów w wyborach do Sejmu i Senat
 > 2. Wyborcy przysługuje prawo zgłoszenia do Sądu Najwyższego protestu przeciwko ważności wyborów na zasadach określonych w ustawie.
 
 Artykuł 101 reguluje kontrolę ważności wyborów do Sejmu i Senatu, powierzoną Sądowi Najwyższemu. Ustęp 1 przyznaje Sądowi Najwyższemu wyłączną kompetencję do stwierdzania ważności wyborów, co stanowi istotną gwarancję niezależnej, sądowej kontroli prawidłowości procesu wyborczego, wyłączonej spod jakiejkolwiek ingerencji organów władzy wykonawczej czy ustawodawczej. Ustęp 2 przyznaje wyborcy prawo zgłoszenia do Sądu Najwyższego protestu przeciwko ważności wyborów na zasadach określonych w ustawie — instytucja protestu wyborczego stanowi indywidualny środek zaskarżenia nieprawidłowości w przeprowadzeniu wyborów, umożliwiający wyborcom kwestionowanie wyniku wyborczego w razie stwierdzenia naruszeń przepisów o głosowaniu, ustalaniu wyników głosowania lub wyników wyborów, mających wpływ na wynik wyborów. Szczegółowe zasady i tryb rozpoznawania protestów wyborczych oraz stwierdzania ważności wyborów przez Sąd Najwyższy określa Kodeks wyborczy. Artykuł 101 stanowi istotny element systemu gwarancji rzetelności procesu demokratycznego, komplementarny wobec zasad wyborczych określonych w art. 96 i art. 97.
+
+#### Posłowie i senatorowie
 
 ### Art. 102
 
@@ -1129,6 +1143,8 @@ Artykuł 107 reguluje zakaz prowadzenia przez posła działalności gospodarczej
 > Art. 108. Do senatorów stosuje się odpowiednio przepisy art. 103–107.
 
 Artykuł 108 wprowadza odesłanie do odpowiedniego stosowania wobec senatorów przepisów dotyczących posłów, zawartych w art. 103–107, obejmujących niepołączalność mandatu (art. 103), status przedstawiciela Narodu i ślubowanie (art. 104), immunitet parlamentarny (art. 105), warunki wykonywania mandatu (art. 106) oraz zakaz działalności gospodarczej z wykorzystaniem majątku publicznego (art. 107). Zastosowanie techniki legislacyjnej odesłania, zamiast powtórzenia tożsamej treści normatywnej w odrębnych przepisach dotyczących Senatu, odzwierciedla zasadniczą tożsamość statusu prawnego posła i senatora jako przedstawicieli Narodu, przy jednoczesnym zachowaniu odrębności obu izb wynikającej z innych przepisów rozdziału IV (dotyczących m.in. liczebności, kadencji i trybu wyborów). Odpowiednie stosowanie oznacza konieczność uwzględnienia specyfiki ustrojowej Senatu przy interpretacji poszczególnych przepisów — np. kompetencje przypisane Marszałkowi Sejmu w art. 105 ust. 5 należy w tym kontekście odnosić odpowiednio do Marszałka Senatu wobec senatorów.
+
+#### Organizacja i działanie
 
 ### Art. 109
 
@@ -1299,6 +1315,8 @@ Artykuł 123 reguluje odrębny, przyspieszony tryb postępowania ustawodawczego 
 > Art. 124. Do Senatu stosuje się odpowiednio przepisy art. 110, art. 112, art. 113 i art. 120.
 
 Artykuł 124 wprowadza odesłanie do odpowiedniego stosowania wobec Senatu wybranych przepisów regulujących funkcjonowanie Sejmu: art. 110 (wybór Marszałka Sejmu i wicemarszałków oraz powoływanie komisji), art. 112 (regulamin Sejmu jako akt określający organizację wewnętrzną i porządek prac izby), art. 113 (zasada jawności posiedzeń z możliwością uchwalenia tajności obrad) oraz art. 120 (standardowa większość i kworum wymagane do podejmowania uchwał). Zastosowana technika legislacyjna odesłania odzwierciedla zasadniczą analogię w organizacji wewnętrznej obu izb parlamentu — Senat, podobnie jak Sejm, wybiera własne organy kierownicze (Marszałka Senatu i wicemarszałków), uchwala własny regulamin, obraduje jawnie z możliwością wyjątkowego wyłączenia jawności oraz podejmuje uchwały zwykłą większością głosów przy zachowanym kworum, chyba że Konstytucja przewiduje inaczej. Odpowiednie stosowanie oznacza konieczność uwzględnienia specyfiki ustrojowej Senatu (odmiennej liczebności, braku funkcji kontrolnej wobec Rady Ministrów) przy interpretacji poszczególnych odesłanych przepisów.
+
+#### Referendum
 
 ### Art. 125
 
