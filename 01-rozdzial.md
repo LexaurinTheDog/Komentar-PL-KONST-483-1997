@@ -270,9 +270,7 @@ Artykuł 28 reguluje symbole państwowe Rzeczypospolitej Polskiej. Ustęp 1 okre
 
 Artykuł 29 wskazuje Warszawę jako stolicę Rzeczypospolitej Polskiej. Przepis ten ma charakter normy ustrojowej o znaczeniu symbolicznym i organizacyjnym zarazem — Warszawa jako stolica jest siedzibą najważniejszych konstytucyjnych organów władzy publicznej (Sejmu, Senatu, Prezydenta Rzeczypospolitej, Rady Ministrów, Sądu Najwyższego, Trybunału Konstytucyjnego), co ma istotne znaczenie praktyczne dla lokalizacji ich siedzib oraz organizacji funkcjonowania administracji centralnej. Zamieszczenie tego przepisu w Konstytucji, a nie w ustawie zwykłej, podkreśla jego rangę ustrojową i uniemożliwia zmianę stolicy bez zmiany Konstytucji, w trybie przewidzianym w rozdziale XII. Artykuł 29 zamyka rozdział I Konstytucji, poświęcony podstawowym zasadom ustrojowym Rzeczypospolitej, stanowiąc razem z art. 1–28 spójny katalog naczelnych zasad determinujących charakter państwa polskiego jako demokratycznego, jednolitego państwa prawnego, opartego na społecznej gospodarce rynkowej, podziale władz i poszanowaniu wolności obywatelskich.
 
-#### Rozdział II — WOLNOŚCI, PRAWA I OBOWIĄZKI CZŁOWIEKA I OBYWATELA
-
-#### Zasady ogólne
+#### Rozdział II — WOLNOŚCI, PRAWA I OBOWIĄZKI CZŁOWIEKA I OBYWATELA — Zasady ogólne
 
 ### Art. 30
 

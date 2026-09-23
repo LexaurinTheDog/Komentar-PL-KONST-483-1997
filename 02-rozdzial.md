@@ -816,9 +816,7 @@ Przepis ustanawia immunitet formalny członków Trybunału Stanu, skonstruowany 
 
 Przepis zawiera generalne odesłanie do ustawy w zakresie organizacji Trybunału Stanu oraz trybu postępowania przed tym organem, analogicznie do odesłania dotyczącego Trybunału Konstytucyjnego z art. 197. Ustawa o Trybunale Stanu reguluje szczegółowo m.in. tryb wnoszenia i rozpoznawania aktów oskarżenia, prawa oskarżonego oraz procedurę wydawania i zaskarżania orzeczeń, konkretyzując konstytucyjne ramy odpowiedzialności konstytucyjnej ustanowione w art. 145, 156 i 198.
 
-#### Rozdział IX — ORGANY KONTROLI PAŃSTWOWEJ I OCHRONY PRAWA
-
-#### Najwyższa Izba Kontroli
+#### Rozdział IX — ORGANY KONTROLI PAŃSTWOWEJ I OCHRONY PRAWA — Najwyższa Izba Kontroli
 
 ### Art. 202
 
